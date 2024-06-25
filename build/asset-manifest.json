@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7c78a000.css",
+    "main.js": "/static/js/main.d1f4617b.js",
+    "static/js/787.a0118156.chunk.js": "/static/js/787.a0118156.chunk.js",
+    "static/media/movie3.png": "/static/media/movie3.8f837f75da6b7c793e14.png",
+    "static/media/gmart.png": "/static/media/gmart.d7eff7a58a8c90386866.png",
+    "static/media/housing.png": "/static/media/housing.52a289684d2e68f8c0c2.png",
+    "static/media/connectio.png": "/static/media/connectio.0db72ec1116c1854e4a2.png",
+    "static/media/weather.png": "/static/media/weather.1511f04674d89f2d33f9.png",
+    "static/media/gtr.png": "/static/media/gtr.dd069f1d2ab59a1ad921.png",
+    "static/media/tic.png": "/static/media/tic.597b41dce05390750e18.png",
+    "static/media/redux.png": "/static/media/redux.fe04b64339963c72ea05.png",
+    "static/media/next.png": "/static/media/next.c598b80ee38a4a8ef41e.png",
+    "static/media/pic.jpg": "/static/media/pic.277745e6520c1a93125b.jpg",
+    "static/media/express.png": "/static/media/express.375eee7619857b2ae37a.png",
+    "static/media/node.png": "/static/media/node.6f01b9a14007c12aee86.png",
+    "static/media/menu.png": "/static/media/menu.dc4bfb430d8a092d27c3.png",
+    "static/media/mongodb.svg": "/static/media/mongodb.153b7b440efa05666029a47da0d0baa0.svg",
+    "static/media/fire.png": "/static/media/fire.65c4fe9f7eb228db7a4c.png",
+    "static/media/react.svg": "/static/media/react.e27571eaed899c642345e71163624ef9.svg",
+    "static/media/mysql.svg": "/static/media/mysql.e5a509a5d3ca7443ae6ccf379181381d.svg",
+    "static/media/ts.svg": "/static/media/ts.17d5e87eac2c9d1dc722ce1e0b60d5df.svg",
+    "static/media/html.svg": "/static/media/html.e7638e3676622c76a46ece6c46136fd4.svg",
+    "static/media/es6.svg": "/static/media/es6.a309520a7fdc1084ef1dc38fcb0aa1bb.svg",
+    "static/media/css.svg": "/static/media/css.e7a9de36d9335d92932e93eb3b32deb9.svg",
+    "static/media/bootstrap.svg": "/static/media/bootstrap.527d0fc09fb3280153c26f0046a517a9.svg",
+    "static/media/js.svg": "/static/media/js.fd46ca41839433d73577989d86eb2fe2.svg",
+    "static/media/angular.svg": "/static/media/angular.e185415c50bc1885eed6c6cc9d2b009e.svg",
+    "index.html": "/index.html",
+    "main.7c78a000.css.map": "/static/css/main.7c78a000.css.map",
+    "main.d1f4617b.js.map": "/static/js/main.d1f4617b.js.map",
+    "787.a0118156.chunk.js.map": "/static/js/787.a0118156.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c78a000.css",
+    "static/js/main.d1f4617b.js"
+  ]
+}
